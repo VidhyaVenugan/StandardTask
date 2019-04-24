@@ -1,0 +1,17 @@
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Mars Standard Task.deps.json
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Mars Standard Task.runtimeconfig.json
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Mars Standard Task.runtimeconfig.dev.json
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Mars Standard Task.dll
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Mars Standard Task.pdb
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\obj\Debug\netcoreapp2.1\Mars Standard Task.csprojAssemblyReference.cache
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\obj\Debug\netcoreapp2.1\Mars Standard Task.csproj.CoreCompileInputs.cache
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\obj\Debug\netcoreapp2.1\Mars Standard Task.AssemblyInfoInputs.cache
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\obj\Debug\netcoreapp2.1\Mars Standard Task.AssemblyInfo.cs
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\obj\Debug\netcoreapp2.1\Mars Standard Task.dll
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\obj\Debug\netcoreapp2.1\Mars Standard Task.pdb
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\bin\Debug\netcoreapp2.1\Interop.AutoItX3Lib.dll
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\obj\Debug\netcoreapp2.1\Interop.AutoItX3Lib.dll
+C:\Users\Vidhya\source\repos\Mars Standard Task\Mars Standard Task\obj\Debug\netcoreapp2.1\Mars Standard Task.csproj.ResolveComReference.cache
